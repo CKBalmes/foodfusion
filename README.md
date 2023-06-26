@@ -5,7 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Project Proposal - FoodFusion Recipe Finding Platform</title>
   <style>
-    /* CSS styles */
+    
     body {
       text-align: justify;
       font-family: Arial, sans-serif;
