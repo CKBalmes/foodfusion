@@ -3,33 +3,8 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Project Proposal - FoodFusion Recipe Finding Platform</title>
-  <style>
-    
-    body {
-      text-align: justify;
-      font-family: Arial, sans-serif;
-      margin: 0;
-      padding: 20px;
-    }
 
-    h1 {
-      color: #333;
-      font-size: 28px;
-      margin-bottom: 20px;
-    }
 
-    p {
-      color: #555;
-      line-height: 1.6;
-    }
-
-    .highlight {
-      background-color: #f2f2f2;
-      padding: 10px;
-      margin-bottom: 20px;
-    }
-  </style>
 </head>
 <body>
   <h1>FoodFusion Recipe Finding Platform</h1>
@@ -55,10 +30,7 @@ Back when the discovery of the internet was yet to be found, finding new recipes
     <p>
        This project on creating a recipe finding platform will have a big influence on encouraging healthy eating and cross-cultural interaction. The creation of a  recipe finding platform can provide an area for food bloggers, home cooks and cooking aficionados to find recipes that they can cook. The area of food and recipe finding may be considerably impacted by this study and can make significant contributions by gaining insights into how users interact with the platform, how they find recipes  and how the platforms can be improved. The creation of a collaborative platform for finding recipes can support and advance sustainable development goals (SDG) 3 and 12. <br></br>
 It can help advance Sustainable Development Goals (SDG) 3 and 12, which aim to increase access to healthy food by educating people about nutrition and fostering cross-cultural interaction by enabling them to find recipes and culinary customs from various cultures while also promoting sustainable consumption  to use foods that might otherwise go to waste.
-
-
-
-    </p>
+<br></br>
   </div>
 
   <div class="highlight">
@@ -68,7 +40,6 @@ It can help advance Sustainable Development Goals (SDG) 3 and 12, which aim to i
       <li>Mariano, Robin R.</li>
       <li>Pizarra, Diego F.</li>
       
-    </ul>
   </div>
 
   
