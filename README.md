@@ -1,4 +1,10 @@
-# FoodFusion Recipe Finding Platform
+<p align="center">
+    <img src="https://github.com/RobinMariano/foodfusion/blob/main/FoodFusion-modified.png" class="logo" width="150" height="150" >
+</p>
+
+
+<h1 align="center">FoodFusion: Recipe Finding Platform</h1>
+
 
 
 ## Project Overview
