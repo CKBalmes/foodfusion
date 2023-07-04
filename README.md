@@ -21,7 +21,7 @@
 + Internet Connection
 
 ## How to Use
-1. Go to [foodfusion.com](http://foodfusion.com)
+1. Go to foodfusion.
 2. Login as admin
 3. Go to the store recipe page
 4. Provide the details needed for a recipe
